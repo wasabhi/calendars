@@ -23,10 +23,10 @@
 - Public Holidays (New Zealand, including Canterbury):
   - Small colored circle (NZ flag blue) on date
 - Canterbury Anniversary (Show Day) included
-- Christ’s College 2026 School Holidays:
+- 2026 School Holidays:
   - Light pastel blue shading across term breaks
 
-## Christ's College 2026 Term Dates
+## 2026 Term Dates
 
 ### Term 1
 - Monday 2 February to Thursday 2 April (9 weeks)

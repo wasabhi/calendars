@@ -25,7 +25,7 @@
   - Small colored circle (NZ flag blue) on the date
 - **Special Inclusion**: Canterbury Anniversary Day (Show Day)
 
-## Christ’s College 2025 Term 3 Dates
+## 2025 Term 3 Dates
 - **Start**: Monday 14 July 2025
 - **End**: Friday 12 September 2025
 - **Duration**: 9 weeks
