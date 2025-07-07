@@ -1,54 +1,46 @@
-# 2026 Annual Planner Specification
+# 2026 Annual Planner Specification (Final - Inline Holiday Labels)
 
 ## Title
 - **"2026 Annual Planner"** (centered, minimalist, modern sans-serif)
 
 ## Format
-- A2 size (420 x 594 mm)
-- PDF (print-ready) and PNG (high-resolution) versions
-
-## Layout
-- Horizontal months (January to December)
-- Vertical days (1–31), one column per month
-- Horizontal lines separating each day
+- **Size**: A2 (420 × 594 mm)
+- **Orientation**: Portrait
+- **Output**: Print-ready PDF (300 DPI), PNG also available
+- **Print margins**: 15 mm on all sides (safe zone respected)
 
 ## Design Style: Modern Minimal
-- Fonts: Clean sans-serif (Helvetica or similar)
-- Title: Modern sans-serif, centered
-- Neutral color scheme (charcoal/grey)
+- Font: Clean sans-serif (Helvetica or equivalent)
+- Colors: 
+  - Day text: Dark grey/black
+  - Weekend shading: Light grey
+  - Public holidays: Day number + holiday name, inline in blue
+- Weekdays during school terms shaded in light blue
 
-## Visual Features
-- Weekends aligned horizontally across all months
-- Weekends shaded light grey (full-width horizontal bands)
-- Public Holidays (New Zealand, including Canterbury):
-  - Small colored circle (NZ flag blue) on date
-- Canterbury Anniversary (Show Day) included
-- 2026 School Holidays:
-  - Light pastel blue shading across term breaks
+## Layout
+- **Horizontal layout**: 12 vertical columns, one per month (January to December)
+- **Vertical layout**: Days numbered 1–31 descending vertically
+- **Horizontal lines**: Light grey line separates each day
+- **Public Holidays**: 
+  - New Zealand statutory holidays, including Canterbury Show Day
+  - Clearly labeled inline with date on the actual calendar day
 
-## 2026 Term Dates
+## Weekend Handling
+- **Weekends aligned horizontally** across all months
+- **Weekend dates shaded** in light grey (Saturday + Sunday only)
+- First Saturday of each month aligned to the same row
+- First day of each month staggered vertically to achieve this alignment
 
-### Term 1
-- Monday 2 February to Thursday 2 April (9 weeks)
-- Term 1 Holidays: 3 April to 27 April
+## School Term Summary
+Displayed in a legend at the bottom of the calendar:
 
-### Term 2
-- Tuesday 28 April to Friday 3 July (10 weeks)
-- Term 2 Holidays: 4 July to 19 July
+- **Term 1**: 2 Feb – 2 Apr
+- **Term 2**: 28 Apr – 3 Jul
+- **Term 3**: 20 Jul – 18 Sep
+- **Term 4**: 12 Oct – 4 Dec
 
-### Term 3
-- Monday 20 July to Friday 18 September (9 weeks)
-- Term 3 Holidays: 19 September to 11 October
+## Additional Notes
+- No week numbers
+- Crop and bleed marks not included
+- Fully margin-safe for A2 trimming and lamination
 
-### Term 4
-- Monday 12 October to Friday 4 December (8 weeks)
-- Term 4 Holidays: begins after 4 December
-
-## Additional Features
-- **Term Dates Summary Legend** at the bottom of the planner
-- **Week Numbers** displayed
-
-## Print Margin Specifications
-- Safe print margin of 15mm on all sides (top, bottom, left, right)
-- All design elements will remain within the safe zone
-- Print-shop friendly with full bleed safety
